@@ -1,0 +1,2 @@
+hysteria2://YV1sd3tfCZngTtnvRmy7@206.189.229.48:443?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=ZuPf4OcXKvotJdDxlTus#%F0%9F%92%AB61%40oneclickvpnkeys
+hysteria2://02df03e3-3029-4c95-bffe-8f211b480672@edge.hankli1214.xyz:443?insecure=0&sni=hank.hankli1214.xyz&obfs=salamander&obfs-password=MeJA9qgoYMH4UMunHowisrbd#kurdconfig
