@@ -1,0 +1,1 @@
+hysteria2://yO8pug5XmwkBXBAjleYIaVt@192.255.152.147:443?insecure=1&sni=192.255.152.147#%20%F0%9F%87%BA%F0%9F%87%B8%2015%40exclavevpn
